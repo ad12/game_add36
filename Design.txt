@@ -27,7 +27,6 @@ Basic Mechanics: Keys-->Effect
                  M-->fire missile
                  P-->pause game
                  V-->active shield 
-                 G-->increase hp by 5
 Levels Differ:
      Level 1: Fight against long range fighter jets (LRFJ)
               Single shot destroys the jets
