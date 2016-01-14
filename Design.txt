@@ -2,3 +2,40 @@ Design.txt
 Created by Arjun Desai (ad12)
 NetId: add36
 
+Genre: Top Down Scrolling Shooter
+Name:  Death Trap
+Backstory: NASA has detected a wormhole near Jupiter and has spotted a UFO moving closer to Earth.
+           A Resistance informant has also revealed that another wormhole has opened near Jaku,
+           the Death Star's last known location. NASA has signaled for a code red hostile takeover
+           and declared this as a state of emergency. While Russia and the United States finally 
+           team up and point their nuclear weapons to space instead of each other, NASA has directed
+           Elon Musk to send the first fighter jet into space. He has made a plane modeled after the 
+           Resistance X-wing and has chosen you, the top pilot in world, to man the jet. 
+           Defeat the Sith or watch the Earth be destroyed. The balance of the universe lies in 
+           your hands. Do not fail.
+Goal: Fight the enemy ships and avoid being crushed by the asteroids in the Belt. Manuever past the
+      Belt and destroy all the long-range fighter jets the Death Star has sent. After those jets,
+      take out the Death Star.
+Basic Mechanics: Keys-->Effect
+                 left arrow-->go left
+                 right arrow-->go right
+                 up arrow--> go faster up
+                 down arrow-->slow down
+                 spacebar-->fire
+                 
+                 Cheat Code:
+                 M-->fire missile
+                 P-->pause game
+                 V-->active shield 
+                 G-->increase hp by 5
+Levels Differ:
+     Level 1: Fight against long range fighter jets (LRFJ)
+              Single shot destroys the jets
+              Jets move off screen and cannot shoot up after they go off the screen
+     Level 2: Death Star (DS) and long range fighter jets
+              LRFJ- destroyed by single shot
+              DS- has hit points and shield, requires multiple shots to destroy
+              DS does not move off of screen--> stays on screen and continues firing
+              DS can shoot bullets and missiles--> do different amounts of damage to player
+              Speed increases
+              
